@@ -9,7 +9,7 @@
      "export":
         {
          "format":"json",
-         "target":"map.json"
+         "target":"..\/12312\/map.json"
         }
     },
  "height":19,
@@ -1316,7 +1316,7 @@
         {
          "columns":16,
          "firstgid":1,
-         "image":"tilesets_deviant_milkian_1.png",
+         "image":"..\/12312\/tilesets_deviant_milkian_1.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -2072,7 +2072,7 @@
         {
          "columns":8,
          "firstgid":257,
-         "image":"floortileset.png",
+         "image":"..\/12312\/floortileset.png",
          "imageheight":256,
          "imagewidth":256,
          "margin":0,
@@ -2095,7 +2095,7 @@
         {
          "columns":9,
          "firstgid":321,
-         "image":"tileset\/mapUtilities.png",
+         "image":"..\/12312\/tileset\/mapUtilities.png",
          "imageheight":32,
          "imagewidth":288,
          "margin":0,
@@ -2118,7 +2118,7 @@
         {
          "columns":8,
          "firstgid":330,
-         "image":"tileset\/pipo_base_3.png",
+         "image":"..\/12312\/tileset\/pipo_base_3.png",
          "imageheight":1888,
          "imagewidth":256,
          "margin":0,
@@ -2131,7 +2131,7 @@
         {
          "columns":16,
          "firstgid":802,
-         "image":"tileset\/furniture.png",
+         "image":"..\/12312\/tileset\/furniture.png",
          "imageheight":2048,
          "imagewidth":512,
          "margin":0,
@@ -2144,7 +2144,7 @@
         {
          "columns":32,
          "firstgid":1826,
-         "image":"tileset\/haus_a.png",
+         "image":"..\/12312\/tileset\/haus_a.png",
          "imageheight":2048,
          "imagewidth":1024,
          "margin":0,
@@ -2157,7 +2157,7 @@
         {
          "columns":8,
          "firstgid":3874,
-         "image":"tileset\/pipo_base_2.png",
+         "image":"..\/12312\/tileset\/pipo_base_2.png",
          "imageheight":1216,
          "imagewidth":256,
          "margin":0,
