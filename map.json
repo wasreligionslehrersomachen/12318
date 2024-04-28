@@ -20,7 +20,7 @@
             0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
             0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
             0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-            0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 3221229272, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
             0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
             0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
             0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
@@ -67,13 +67,13 @@
             0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
          "height":19,
          "id":12,
-         "name":"exit_flur_gruen",
+         "name":"exit_flur_blau",
          "opacity":1,
          "properties":[
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"https:\/\/play.workadventu.re\/_\/global\/wasreligionslehrersomachen.github.io\/flur456gruen\/map.json#start24"
+                 "value":"https:\/\/play.workadventu.re\/_\/global\/wasreligionslehrersomachen.github.io\/flur123blau\/map.json#start18"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -277,7 +277,7 @@
                 {
                  "name":"openWebsite",
                  "type":"file",
-                 "value":"https:\/\/blogs.rpi-virtuell.de\/wasreligionslehrersomachen45624\/2021\/06\/22\/station-1\/"
+                 "value":"https:\/\/blogs.rpi-virtuell.de\/wasreligionslehrersomachen12318\/2021\/06\/12\/hallo-welt\/"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -313,7 +313,7 @@
                 {
                  "name":"openWebsite",
                  "type":"file",
-                 "value":"https:\/\/blogs.rpi-virtuell.de\/wasreligionslehrersomachen45624\/2021\/06\/22\/station-2\/"
+                 "value":"https:\/\/blogs.rpi-virtuell.de\/wasreligionslehrersomachen12318\/2021\/06\/12\/hallo-welt\/"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -349,7 +349,7 @@
                 {
                  "name":"openWebsite",
                  "type":"file",
-                 "value":"https:\/\/blogs.rpi-virtuell.de\/wasreligionslehrersomachen45624\/2021\/06\/22\/station-3\/"
+                 "value":"https:\/\/blogs.rpi-virtuell.de\/wasreligionslehrersomachen12318\/2021\/06\/12\/hallo-welt\/"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -385,7 +385,7 @@
                 {
                  "name":"openWebsite",
                  "type":"file",
-                 "value":"https:\/\/blogs.rpi-virtuell.de\/wasreligionslehrersomachen45624\/2021\/06\/22\/station-4\/"
+                 "value":"https:\/\/blogs.rpi-virtuell.de\/wasreligionslehrersomachen12318\/2021\/06\/12\/hallo-welt\/"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -421,7 +421,7 @@
                 {
                  "name":"openWebsite",
                  "type":"file",
-                 "value":"https:\/\/blogs.rpi-virtuell.de\/wasreligionslehrersomachen45624\/2021\/06\/22\/station-5\/"
+                 "value":"https:\/\/blogs.rpi-virtuell.de\/wasreligionslehrersomachen12318\/2021\/06\/12\/hallo-welt\/"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -457,7 +457,7 @@
                 {
                  "name":"openWebsite",
                  "type":"file",
-                 "value":"https:\/\/blogs.rpi-virtuell.de\/wasreligionslehrersomachen45624\/2021\/06\/22\/station-6\/"
+                 "value":"https:\/\/blogs.rpi-virtuell.de\/wasreligionslehrersomachen12318\/2021\/06\/12\/hallo-welt\/"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -493,7 +493,7 @@
                 {
                  "name":"openWebsite",
                  "type":"file",
-                 "value":"https:\/\/blogs.rpi-virtuell.de\/wasreligionslehrersomachen45624\/2021\/06\/22\/station-7\/"
+                 "value":"https:\/\/blogs.rpi-virtuell.de\/wasreligionslehrersomachen12318\/2021\/06\/12\/hallo-welt\/"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -529,7 +529,7 @@
                 {
                  "name":"openWebsite",
                  "type":"file",
-                 "value":"https:\/\/blogs.rpi-virtuell.de\/wasreligionslehrersomachen45624\/2021\/06\/22\/station-8\/"
+                 "value":"https:\/\/blogs.rpi-virtuell.de\/wasreligionslehrersomachen12318\/2021\/06\/12\/hallo-welt\/"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -565,7 +565,7 @@
                 {
                  "name":"openWebsite",
                  "type":"file",
-                 "value":"https:\/\/blogs.rpi-virtuell.de\/wasreligionslehrersomachen45624\/2021\/06\/22\/station-9\/"
+                 "value":"https:\/\/blogs.rpi-virtuell.de\/wasreligionslehrersomachen12318\/2021\/06\/12\/hallo-welt\/"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -601,7 +601,7 @@
                 {
                  "name":"openWebsite",
                  "type":"file",
-                 "value":"https:\/\/blogs.rpi-virtuell.de\/wasreligionslehrersomachen45624\/2021\/06\/22\/station-10\/"
+                 "value":"https:\/\/blogs.rpi-virtuell.de\/wasreligionslehrersomachen12318\/2021\/06\/12\/hallo-welt\/"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -637,7 +637,7 @@
                 {
                  "name":"openWebsite",
                  "type":"file",
-                 "value":"https:\/\/blogs.rpi-virtuell.de\/wasreligionslehrersomachen45624\/2021\/06\/22\/station-11\/"
+                 "value":"https:\/\/blogs.rpi-virtuell.de\/wasreligionslehrersomachen12318\/2021\/06\/12\/hallo-welt\/"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -674,7 +674,7 @@
                 {
                  "name":"openWebsite",
                  "type":"file",
-                 "value":"https:\/\/blogs.rpi-virtuell.de\/wasreligionslehrersomachen45624\/2021\/06\/22\/station-12\/"
+                 "value":"https:\/\/blogs.rpi-virtuell.de\/wasreligionslehrersomachen12318\/2021\/06\/12\/hallo-welt\/"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -710,7 +710,7 @@
                 {
                  "name":"openWebsite",
                  "type":"file",
-                 "value":"https:\/\/blogs.rpi-virtuell.de\/wasreligionslehrersomachen45624\/2021\/06\/22\/station-13\/"
+                 "value":"https:\/\/blogs.rpi-virtuell.de\/wasreligionslehrersomachen12318\/2021\/06\/12\/hallo-welt\/"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -746,7 +746,7 @@
                 {
                  "name":"openWebsite",
                  "type":"file",
-                 "value":"https:\/\/blogs.rpi-virtuell.de\/wasreligionslehrersomachen45624\/2021\/06\/22\/station-14\/"
+                 "value":"https:\/\/blogs.rpi-virtuell.de\/wasreligionslehrersomachen12318\/2021\/06\/12\/hallo-welt\/"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -782,7 +782,7 @@
                 {
                  "name":"openWebsite",
                  "type":"file",
-                 "value":"https:\/\/blogs.rpi-virtuell.de\/wasreligionslehrersomachen45624\/2021\/06\/22\/station-15\/"
+                 "value":"https:\/\/blogs.rpi-virtuell.de\/wasreligionslehrersomachen12318\/2021\/06\/12\/hallo-welt\/"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -818,7 +818,7 @@
                 {
                  "name":"openWebsite",
                  "type":"file",
-                 "value":"https:\/\/blogs.rpi-virtuell.de\/wasreligionslehrersomachen45624\/2021\/06\/22\/station-16\/"
+                 "value":"https:\/\/blogs.rpi-virtuell.de\/wasreligionslehrersomachen12318\/2021\/06\/12\/hallo-welt\/"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -854,7 +854,7 @@
                 {
                  "name":"openWebsite",
                  "type":"file",
-                 "value":"https:\/\/blogs.rpi-virtuell.de\/wasreligionslehrersomachen45624\/2021\/06\/22\/station-17\/"
+                 "value":"https:\/\/blogs.rpi-virtuell.de\/wasreligionslehrersomachen12318\/2021\/06\/12\/hallo-welt\/"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -890,7 +890,7 @@
                 {
                  "name":"openWebsite",
                  "type":"file",
-                 "value":"https:\/\/blogs.rpi-virtuell.de\/wasreligionslehrersomachen45624\/2021\/06\/22\/station-18\/"
+                 "value":"https:\/\/blogs.rpi-virtuell.de\/wasreligionslehrersomachen12318\/2021\/06\/12\/hallo-welt\/"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -926,7 +926,7 @@
                 {
                  "name":"openWebsite",
                  "type":"file",
-                 "value":"https:\/\/blogs.rpi-virtuell.de\/wasreligionslehrersomachen45624\/2021\/06\/22\/station-19\/"
+                 "value":"https:\/\/blogs.rpi-virtuell.de\/wasreligionslehrersomachen12318\/2021\/06\/12\/hallo-welt\/"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -962,7 +962,7 @@
                 {
                  "name":"openWebsite",
                  "type":"file",
-                 "value":"https:\/\/blogs.rpi-virtuell.de\/wasreligionslehrersomachen45624\/2021\/06\/22\/station-20\/"
+                 "value":"https:\/\/blogs.rpi-virtuell.de\/wasreligionslehrersomachen12318\/2021\/06\/12\/hallo-welt\/"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -998,7 +998,7 @@
                 {
                  "name":"openWebsite",
                  "type":"file",
-                 "value":"https:\/\/blogs.rpi-virtuell.de\/wasreligionslehrersomachen45624\/2021\/06\/22\/station-21\/"
+                 "value":"https:\/\/blogs.rpi-virtuell.de\/wasreligionslehrersomachen12318\/2021\/06\/12\/hallo-welt\/"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -1034,7 +1034,7 @@
                 {
                  "name":"openWebsite",
                  "type":"file",
-                 "value":"https:\/\/blogs.rpi-virtuell.de\/wasreligionslehrersomachen45624\/2021\/06\/22\/station-22\/"
+                 "value":"https:\/\/blogs.rpi-virtuell.de\/wasreligionslehrersomachen12318\/2021\/06\/12\/hallo-welt\/"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -1070,7 +1070,7 @@
                 {
                  "name":"openWebsite",
                  "type":"file",
-                 "value":"https:\/\/blogs.rpi-virtuell.de\/wasreligionslehrersomachen45624\/2021\/06\/22\/station-23\/"
+                 "value":"https:\/\/blogs.rpi-virtuell.de\/wasreligionslehrersomachen12318\/2021\/06\/12\/hallo-welt\/"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -1106,7 +1106,7 @@
                 {
                  "name":"openWebsite",
                  "type":"file",
-                 "value":"https:\/\/blogs.rpi-virtuell.de\/wasreligionslehrersomachen45624\/2021\/06\/22\/station-24\/"
+                 "value":"https:\/\/blogs.rpi-virtuell.de\/wasreligionslehrersomachen12318\/2021\/06\/12\/hallo-welt\/"
                 }],
          "type":"tilelayer",
          "visible":true,
